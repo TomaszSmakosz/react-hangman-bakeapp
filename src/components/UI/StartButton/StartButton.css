@@ -1,0 +1,25 @@
+.StartButton {
+    display: block;
+    background-color: #ff7412;
+    border: 2px solid #8b3b00;
+    color: white;
+    outline: none;
+    cursor: pointer;
+    font: inherit;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.StartButton:hover{
+    background-color: #fd8f41;
+    border: 2px solid #995421;
+}
+
+.StartButton:disabled{
+    color: #ccc;
+    cursor: not-allowed;
+}

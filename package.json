@@ -1,5 +1,5 @@
 {
-  "name": "hangman-bakeapp",
+  "name": "react-hangman-bakeapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
